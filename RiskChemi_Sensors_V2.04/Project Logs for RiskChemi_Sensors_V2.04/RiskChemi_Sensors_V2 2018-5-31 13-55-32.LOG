@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetD4_1 Pin=Power-1
+Removed Pin From Net: NetName=DGND Pin=Power-2
+Added Pin To Net: NetName=DGND Pin=Power-1
+Added Pin To Net: NetName=NetD4_1 Pin=Power-2
+Added Room: Name=RiskChemi_Sensors_V2.04

@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=DGND Pin=AT-2
+Removed Pin From Net: NetName=DGND Pin=AT-2
+Removed Pin From Net: NetName=DGND Pin=AT-2
+Removed Pin From Net: NetName=DGND Pin=AT-2
+Removed Member From Class: ClassName=RiskChemi_Sensors Member=AT
+Change Component Comment : Designator=R25 Old Comment=5K New Comment=5.1K
+Change Component Comment : Designator=R27 Old Comment=5K New Comment=5.1K
+Change Component Comment : Designator=R20 Old Comment=210K New Comment=205K
+Change Component Comment : Designator=R40 Old Comment=510 New Comment=510R
+Change Component Comment : Designator=R26 Old Comment=3362P New Comment=3362P_2K_adj_res
+Change Component Comment : Designator=BUZ1 Old Comment=BUZZER New Comment=BUZZER 0905 through hole
+Change Component Comment : Designator=U9 Old Comment=Gas Sensor New Comment=Gas Sensor 2M010
+Change Component Comment : Designator=D1 Old Comment=LED_STATUS New Comment=LED
+Change Component Comment : Designator=U13 Old Comment=RT9193-30 New Comment=RT9193-30GB
+Change Component Comment : Designator=U1 Old Comment=STM32F103R8T6 New Comment=STM32F103RBT6
+Added Component: Designator=Ant.(PIN1)
+Added Component: Designator=Power(HDR1X2)
+Added Pin To Net: NetName=NetD4_1 Pin=Power-1
+Added Pin To Net: NetName=DGND Pin=Power-2
+Added Pin To Net: NetName=NetAnt._1 Pin=Ant.-1
+Added Pin To Net: NetName=NetAnt._1 Pin=C10-2
+Added Pin To Net: NetName=NetAnt._1 Pin=L5-2
+Added Net: Name=NetAnt._1
+Change Class Name : Old Net Name=RiskChemi_Sensors New Net Name=RiskChemi_Sensors_V2.04
+Added Member To Class: ClassName=RiskChemi_Sensors_V2.04 Member=Component Ant. Antenna
+Added Member To Class: ClassName=RiskChemi_Sensors_V2.04 Member=Component Power Header 2
+Added Room: Name=RiskChemi_Sensors_V2.04

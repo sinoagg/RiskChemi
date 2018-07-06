@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=DGND Pin=C16-1
+Removed Pin From Net: NetName=NetC9_1 Pin=C16-2
+Change Component Comment : Designator=R3 Old Comment=0R New Comment=2.2pF
+Change Component Comment : Designator=C9 Old Comment=2.2pF New Comment=0.8pF
+Change Component Comment : Designator=L2 Old Comment=27nH New Comment=NULL
+Change Component Comment : Designator=R15 Old Comment=200K New Comment=Res1
+Change Component Designator: OldDesignator=R3 NewDesignator=C10
+Added Component: Designator=L5(0402)
+Added Pin To Net: NetName=DGND Pin=L5-1
+Added Pin To Net: NetName=NetC9_1 Pin=L5-2
+Change Net Name : Old Net Name=NetC15_2 New Net Name=NetC10_1
+Change Class Name : Old Net Name=RiskChemi_Sensors_V2.04M1 New Net Name=RiskChemi_Sensors_V2.04M2
+Added Member To Class: ClassName=RiskChemi_Sensors_V2.04M2 Member=Component L5 27nH
+Added Room: Name=RiskChemi_Sensors_V2.04M2

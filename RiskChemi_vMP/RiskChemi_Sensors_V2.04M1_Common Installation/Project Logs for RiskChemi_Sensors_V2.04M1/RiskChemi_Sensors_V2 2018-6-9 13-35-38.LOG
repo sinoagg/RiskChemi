@@ -1,0 +1,10 @@
+Change Component Comment : Designator=L5 Old Comment=0R New Comment=2.2pF
+Change Component Comment : Designator=C16 Old Comment=3.9pF New Comment=NULL
+Change Component Comment : Designator=L2 Old Comment=8.2nH New Comment=0R
+Change Component Comment : Designator=C10 Old Comment=NULL New Comment=27nH
+Change Component Designator: OldDesignator=C10 NewDesignator=L2
+Change Component Designator: OldDesignator=L2 NewDesignator=R3
+Change Component Designator: OldDesignator=L5 NewDesignator=C9
+Change Net Name : Old Net Name=NetC16_2 New Net Name=NetC9_1
+Change Class Name : Old Net Name=RiskChemi_Sensors_V2.04 New Net Name=RiskChemi_Sensors_V2.04M1
+Added Room: Name=RiskChemi_Sensors_V2.04M1

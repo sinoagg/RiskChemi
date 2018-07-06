@@ -1,0 +1,4 @@
+Change Component Comment : Designator=R15 Old Comment=200K New Comment=Res1
+Change Class Name : Old Net Name=RiskChemi_Sensors_V2.04M1 New Net Name=RiskChemi_Sensors_V2.04M2
+Added Member To Class: ClassName=RiskChemi_Sensors_V2.04M2 Member=Component C16 NULL
+Added Room: Name=RiskChemi_Sensors_V2.04M2

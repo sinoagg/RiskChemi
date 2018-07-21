@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=POWER&CAN Old Footprint=4_CLK_HEADER New Footprint=Wafer 4pin
+Added Component: Designator=Atenna(433MHz Atenna)
+Added Pin To Net: NetName=NetAtenna_1 Pin=Atenna-1
+Added Member To Class: ClassName=RiskChemi_Monitor_V1.05M1 Member=Component Atenna AT
+Added Room: Name=RiskChemi_Monitor_V1.05M1

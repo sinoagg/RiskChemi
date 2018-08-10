@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=L2 Old Footprint=0402-A New Footprint=0402
+Added Component: Designator=Ant.(PIN1)
+Added Pin To Net: NetName=NetAnt._1 Pin=Ant.-1
+Added Member To Class: ClassName=RiskChemi_Sensors_V2.11 Member=Component Ant. Antenna
+Added Room: Name=RiskChemi_Sensors_V2.11

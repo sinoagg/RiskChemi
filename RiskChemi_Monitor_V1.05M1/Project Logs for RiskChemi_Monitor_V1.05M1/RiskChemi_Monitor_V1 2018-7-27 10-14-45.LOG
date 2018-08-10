@@ -1,0 +1,25 @@
+Change Component DesignItemId : Designator=C6 Old DesignItemId=Inductor New DesignItemId=Cap Semi
+Change Component Comment : Designator=C6 Old Comment=0.8pF New Comment=Cap Semi
+Change Component Comment : Designator=C27 Old Comment=1.8pF New Comment=1.8pF/25V
+Change Component Comment : Designator=C5 Old Comment=1uF New Comment=1uF/16V
+Change Component Comment : Designator=C11 Old Comment=1uF New Comment=1uF/16V
+Change Component Comment : Designator=C17 Old Comment=1uF New Comment=1uF/50V
+Change Component Comment : Designator=C59 Old Comment=10uF New Comment=10uF/50V
+Change Component Comment : Designator=C23 Old Comment=18pF New Comment=18pF/16V
+Change Component Comment : Designator=C24 Old Comment=18pF New Comment=18pF/16V
+Change Component Comment : Designator=C10 Old Comment=22nF New Comment=22nF/16V
+Change Component Comment : Designator=C8 Old Comment=22uF New Comment=22uF/16V
+Change Component Comment : Designator=C22 Old Comment=22uF New Comment=22uF/16V
+Change Component Comment : Designator=C15 Old Comment=22uF New Comment=22uF/50V
+Change Component Comment : Designator=C1 Old Comment=100nF New Comment=100nF/16V
+Change Component Comment : Designator=C2 Old Comment=100nF New Comment=100nF/16V
+Change Component Comment : Designator=C3 Old Comment=100nF New Comment=100nF/16V
+Change Component Comment : Designator=C4 Old Comment=100nF New Comment=100nF/16V
+Change Component Comment : Designator=C7 Old Comment=100nF New Comment=100nF/16V
+Change Component Comment : Designator=C21 Old Comment=100nF New Comment=100nF/16V
+Change Component Comment : Designator=C26 Old Comment=100nF New Comment=100nF/16V
+Change Component Comment : Designator=C19 Old Comment=100nF New Comment=100nF/50V
+Change Component Comment : Designator=C16 Old Comment=330pF New Comment=330pF/50V
+Change Component Comment : Designator=C25 Old Comment=470pF New Comment=470pF/16V
+Change Component Description : Designator=C6 Old Description=Inductor New Description=Capacitor (Semiconductor SIM Model)
+Added Room: Name=RiskChemi_Monitor_V1.05M1
